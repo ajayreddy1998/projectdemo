@@ -1,0 +1,6 @@
+this is in dev branch 
+branching git commands 
+
+create branch = branch name
+switch b/w branch = checkout name 
+
